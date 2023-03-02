@@ -1,3 +1,3 @@
 # This Web will show Random Clusters.
 
-https://zewen-yang.github.io/randomClusters/
+Check out the [Web](https://zewen-yang.github.io/randomClusters/)!
